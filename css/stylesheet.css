@@ -1,0 +1,109 @@
+input {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+select {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#upload {
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+#headerSection {
+    padding: 2px;
+    font-family: Cursive;
+}
+
+#loginSection {
+    padding: 5px;
+}
+
+body {
+    background-color: #e9ffff;
+}
+
+#loginbtn {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+}
+
+#reglink {
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#mainSection {
+    padding: 10px;
+}
+
+#profileSection {
+    width: 100%;
+    float: left;
+    background-color: white;
+    padding: 20px;
+}
+
+#groupSection {
+    width: 60%;
+    float: center;
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+}
+
+#back-button {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+}
+
+#logout-button {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+}
+
+#voterdetails {
+    border-radius: 50px 20px;
+    padding: 20px;
+    background-color: rgb(177, 212, 221);
+    border: 2px solid black;
+}
+
+#electiondetails,
+#candidatedetails {
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(226, 226, 226);
+}
+
+#countSection {
+    background-color: #bdbdbd;
+    padding: 2px;
+    font-family: Cursive;
+}
