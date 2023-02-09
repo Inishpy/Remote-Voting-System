@@ -1,3 +1,3 @@
 ﻿# Remote-Voting-System
  
- ![alt text](http://url/to/img.png)
+ ![alt text](./uploads/AAP.png)
